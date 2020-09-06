@@ -17,7 +17,7 @@ const IndexPage = () => (
         </Grid>
         <Grid item>
           <Link className="App-link" to="/blog">
-            Blog
+            Blog変更
           </Link>
         </Grid>
       </Grid>
